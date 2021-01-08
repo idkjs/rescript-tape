@@ -1,4 +1,4 @@
-bs-tape
+rescript-tape
 
 Rescript bindings for tape
 ## Installation
