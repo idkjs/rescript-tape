@@ -25,3 +25,4 @@ lib/bs
 .merlin
 .bsb.lock
 _esy/default
+**/*.bs.js
