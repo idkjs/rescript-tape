@@ -1,0 +1,19 @@
+{
+  "name": "rescript-tape",
+  "version": "0.1.0",
+  "refmt":3,
+  "sources": [{
+    "dir" : "src"
+  }, {
+    "dir" : ".",
+    "type": "dev",
+    "files": ["Example.re"]
+  }],
+  "package-specs": {
+    "module": "commonjs",
+    "in-source": true
+  },
+  "suffix": ".bs.js",
+  "bs-dependencies": [
+   ]
+}
