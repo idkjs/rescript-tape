@@ -12,7 +12,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "bs-platform": "^7.0.1",
+    "bs-platform": "^8.4.2",
     "tape": "^5.1.1"
   }
 }

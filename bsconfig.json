@@ -7,7 +7,7 @@
   }, {
     "dir" : ".",
     "type": "dev",
-    "files": ["Example.re"]
+    "files": ["Example.res"]
   }],
   "package-specs": {
     "module": "commonjs",
