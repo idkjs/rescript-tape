@@ -3,7 +3,19 @@ bs-tape
 Rescript bindings for tape
 ## Installation
 
-$ npm install --save-dev rescript-tape
+```sh
+npm install --save-dev https://github.com/idkjs/rescript-tape.git
+# or
+yarn add -D https://github.com/idkjs/rescript-tape.git
+```
+
+For [ReasonML syntax](https://github.com/idkjs/rescript-tape/tree/reason)
+
+```sh
+npm install --save-dev https://github.com/idkjs/rescript-tape.git#reason
+# or
+yarn add -D https://github.com/idkjs/rescript-tape.git#reason
+```
 
 ## Example
 
